@@ -14,8 +14,3 @@
 장래희망은 내가 배운 지식을 나누어 주는 지식전도사입니다.
 
 </br>
-
-## 📌 Contact
-- Email: hwb0218@gmail.com
-- Github: https://github.com/hwb0218
-- Blog: https://hwb0218.tistory.com
