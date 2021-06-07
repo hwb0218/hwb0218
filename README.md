@@ -9,7 +9,7 @@
 
 행복의 핵심 가치는 재미와 의미라고 합니다.
 
-재미있고 의미 있는 서비스를 만들어 고객에게 행복을 나눠주고 싶습니다.
+재미있고 의미 있는 서비스를 만들어 고객에게 행복을 전해주고 싶습니다.
 
 장래희망은 내가 배운 지식을 나누어 주는 지식전도사입니다.
 
@@ -28,7 +28,7 @@ __`Front-end`__
 
 __`Back-end`__
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
