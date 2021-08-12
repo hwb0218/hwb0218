@@ -1,11 +1,11 @@
-# 한우빈 (🐮)
+# 🐮 한우빈 
 ```
 재미있고 의미 있는 서비스를 만들어 행복의 가치를 나누고 싶은 프론트엔드 개발자 한우빈입니다.
 ```
 
 </br>
 
-## 📌 Introduce 
+## 👨‍💻 Introduce 
 
 행복의 핵심 가치는 재미와 의미라고 합니다.
 
@@ -15,7 +15,7 @@
 
 </br>
 
-## 📌 Stack     
+## ⚙ Stack     
 __`Front-end`__
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
