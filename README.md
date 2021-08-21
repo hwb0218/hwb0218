@@ -15,7 +15,7 @@
 
 </br>
 
-## ⚙ Stack     
+## 🛠 Stack     
 __`Front-end`__
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
