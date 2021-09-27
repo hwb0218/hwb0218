@@ -35,3 +35,5 @@ __`Back-end`__
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 </p>  
+
+</br>
